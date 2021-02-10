@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="init hw13">
+      <change afterPath="$PROJECT_DIR$/exe5/routes/page1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/routes/page2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/routes/page3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/routes/page4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/routes/page5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/routes/pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oINHfRpfwyYPcOnEpir7luqM7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exe6" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe6" />
+      <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe1\exe7" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="" />
+      <created>1612970059533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612970059533</updated>
+      <workItem from="1612970060994" duration="3084000" />
+    </task>
+    <task id="LOCAL-00001" summary="init hw13">
+      <created>1612970838885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612970838885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init hw13" />
+    <option name="LAST_COMMIT_MESSAGE" value="init hw13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612979760735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1612979760735" />
+  </component>
+</project>
