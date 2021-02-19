@@ -4,7 +4,7 @@ const path = require("path")
 
 router.get("/page:page", function (req, res){
     if( +req.params["page"] < 5 &&  +req.params["page"] > 0) {
-        res.sendFile(path.join(__dirname, '../public', 'page' + req.params["page"] + '.html'));
+        res.sendFile(path.join(__dirname, '../views', 'page' + req.params["page"] + '.html'));
     }
 });
 
