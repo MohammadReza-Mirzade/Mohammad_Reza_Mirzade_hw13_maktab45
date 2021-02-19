@@ -8,7 +8,7 @@ router.post("/getUser", function (req, res){
         if (err){ console.log(err.message); }
         else{
             console.log(req.body)
-            //res.send(JSON.parse(data).users[req.body.name]);
+            res.send(JSON.parse(data).users[req.body.name]);
             res.send()
         }
     });

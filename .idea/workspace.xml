@@ -20,22 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="fix exe7.">
-      <change afterPath="$PROJECT_DIR$/exe7/public/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe7/public/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe7/views/page6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/routes/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/routes/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/routes/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/contactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/contactUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/views/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe2/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/public/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe4/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe6/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe6/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +58,16 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exe7/views" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -95,6 +98,7 @@
       <workItem from="1613483766519" duration="3973000" />
       <workItem from="1613583309597" duration="498000" />
       <workItem from="1613705934188" duration="17677000" />
+      <workItem from="1613746959586" duration="3525000" />
     </task>
     <task id="LOCAL-00001" summary="init hw13">
       <created>1612970838885</created>
