@@ -19,19 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="fix exe7.">
+    <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="fix.">
+      <change afterPath="$PROJECT_DIR$/network/exe1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/exe2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/exe3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/exe4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe2/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe2/public/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe3/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe4/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/routes/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe6/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe6/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe7/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -98,7 +91,7 @@
       <workItem from="1613483766519" duration="3973000" />
       <workItem from="1613583309597" duration="498000" />
       <workItem from="1613705934188" duration="17677000" />
-      <workItem from="1613746959586" duration="3525000" />
+      <workItem from="1613746959586" duration="13213000" />
     </task>
     <task id="LOCAL-00001" summary="init hw13">
       <created>1612970838885</created>
@@ -142,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613712826184</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix.">
+      <created>1613753031897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613753031897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,24 +164,7 @@
     <MESSAGE value="init hw13" />
     <MESSAGE value="fix exe5, exe6" />
     <MESSAGE value="fix exe7." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix exe7." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612979760735">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1612979760735" />
-    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1613029466686">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613029466686" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1613715401175">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613715401175" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1613712842698">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613712842698" />
+    <MESSAGE value="fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix." />
   </component>
 </project>
