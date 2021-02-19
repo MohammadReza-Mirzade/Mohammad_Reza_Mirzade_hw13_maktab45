@@ -20,7 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="fix exe7.">
+      <change afterPath="$PROJECT_DIR$/exe7/public/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe7/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe7/views/page6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe7/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/routes/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/routes/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/contactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/contactUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/views/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/views/page5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,13 +63,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exe7/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exe7/views" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe7\views" />
       <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe7\public" />
       <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe6" />
       <recent name="E:\Mohammad\دوره NodeJS\Mohammad_Reza_Mirzade_hw13_maktab45\exe1\exe7" />
@@ -77,7 +94,7 @@
       <workItem from="1613392206797" duration="7476000" />
       <workItem from="1613483766519" duration="3973000" />
       <workItem from="1613583309597" duration="498000" />
-      <workItem from="1613705934188" duration="6424000" />
+      <workItem from="1613705934188" duration="17677000" />
     </task>
     <task id="LOCAL-00001" summary="init hw13">
       <created>1612970838885</created>
@@ -114,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613712444083</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix exe7.">
+      <created>1613712826184</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613712826184</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +171,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613029466686" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1613712448071">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1613715401175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613712448071" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613715401175" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1613712842698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613712842698" />
   </component>
 </project>

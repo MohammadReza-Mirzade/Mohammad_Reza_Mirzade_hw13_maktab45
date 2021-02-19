@@ -1,0 +1,26 @@
+body{
+    background-color: #fff2f2;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url("404.jpg");
+    height: 91%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    margin: 15px 60px;
+}
