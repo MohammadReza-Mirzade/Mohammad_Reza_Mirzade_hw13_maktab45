@@ -19,14 +19,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="init hw13">
-      <change afterPath="$PROJECT_DIR$/exe5/routes/page1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe5/routes/page2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe5/routes/page3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe5/routes/page4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe5/routes/page5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe6/routes/pages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/app.js" afterDir="false" />
+    <list default="true" id="8dffcd69-96c7-4a5f-bbb8-ba51d077a8e7" name="Default Changelist" comment="fix exe5, exe6">
+      <change afterPath="$PROJECT_DIR$/exe5/public/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/public/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/public/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/public/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5/public/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/public/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/public/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/public/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/public/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6/public/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe4/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe4/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe4/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe4/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/routes/page1.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/routes/page1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/routes/page2.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/routes/page2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/routes/page3.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/routes/page3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/routes/page4.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/routes/page4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe5/routes/page5.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe5/routes/page5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe6/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe6/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe6/routes/pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe6/routes/pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe7/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exe7/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,6 +65,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exe6" />
@@ -72,7 +89,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612970059533</updated>
-      <workItem from="1612970060994" duration="3084000" />
+      <workItem from="1612970060994" duration="9419000" />
+      <workItem from="1613392206797" duration="7476000" />
+      <workItem from="1613483766519" duration="3973000" />
+      <workItem from="1613583309597" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="init hw13">
       <created>1612970838885</created>
@@ -81,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612970838885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix exe5, exe6">
+      <created>1612980655814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612980655814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix exe5, exe6">
+      <created>1612980665791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612980665791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,15 +131,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init hw13" />
-    <option name="LAST_COMMIT_MESSAGE" value="init hw13" />
+    <MESSAGE value="fix exe5, exe6" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix exe5, exe6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612979760735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="451" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1612979760735" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1613029466686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613029466686" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1613021962104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613021962104" />
   </component>
 </project>
